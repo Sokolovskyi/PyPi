@@ -3,6 +3,7 @@
 	<name>RaspPy</name>
 	<comment></comment>
 	<projects>
+		<project>SymPyBotics</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
